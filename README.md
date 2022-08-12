@@ -14,4 +14,4 @@ Os veículos cadastrados seriam automaticamente consultados, os dados obtidos de
 - Desenvolvimento de Crawlers (Node JS + Puppeteer)
 - Cloud: Filas, Contêineres (Orquestrador + Workers), etc
 
-## [Protótipo em Figma](https://www.figma.com/file/19UX0V67ytSXzDZEsIzPfK/CTEDS1-D5-G4?node-id=0%3A1)
+## [Protótipo de alta fidelidade em Figma](https://www.figma.com/file/19UX0V67ytSXzDZEsIzPfK/CTEDS1-D5-G4?node-id=0%3A1)
